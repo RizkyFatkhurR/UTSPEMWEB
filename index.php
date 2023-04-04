@@ -94,9 +94,9 @@
                     <td><?php echo $data['jumlah_km'];  ?></td>
                     <td><?php echo $data['tanggal'];  ?></td>
                     <td>
-                      <a href="<?php echo "updateTrans.php?id=".$data['id_trans_upn']; ?>"> Update</a>
+                      <a href="<?php echo "updateTransupn.php?id=".$data['id_trans_upn']; ?>"> Update</a>
                       &nbsp;&nbsp;
-                      <a href="<?php echo "deleteTrans.php?id=".$data['id_trans_upn']; ?>"> Delete</a>
+                      <a href="<?php echo "deletetransupn.php?id=".$data['id_trans_upn']; ?>"> Delete</a>
                     </td>
                   </tr>
                  <?php endwhile ?>

@@ -17,7 +17,7 @@
                 $status = 'error';
             }
 
-            header('Location: UTS.php?status='.$status);
+            header('Location: index.php?status='.$status);
         }
     }
 ?>

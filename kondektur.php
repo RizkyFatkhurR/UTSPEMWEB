@@ -4,50 +4,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>UTS MWEHEHE</title>
+    <title>Data Kondektur</title>
     <link href="" rel="stylesheet">
     <link href="" rel="stylesheet">
   </head>
 
   <body>
     <nav>
-      <a href="#">Bus Trans UPN</a>
+      <a href="index.php">Index</a>
     </nav>
     <div>
       <div>
-        <nav>
-          <div>
-            <ul style="margin-top:100px;">
-              <li>
-                <a href="UTS.php">Data Trans Bus UPN</a>
-              </li>
-              <li>
-                <a href="driver.php">Data Driver</a>
-              </li>
-              <li>
-                  <a href="bus.php">Data Bus</a>
-              </li>
-              <li>
-                  <a href="kondektur.php">Data Kondektur</a>
-              </li>
-              <li>
-                  <a href="tambahTrans.php">Tambah Data Trans UPN</a>
-              </li>
-              <li>
-                  <a href="tambahKondektur.php">Tambah Data Kondektur</a>
-              </li>
-              <li>
-                  <a href="tambahDriver.php">Tambah Data Driver</a>
-              </li>
-              <li>
-                  <a href="tambahBus.php">Tambah Data BUS</a>
-              </li>
-              <li>
-                  <a href="gaji.php">Hitung Gaji</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
 
         <main role="main">
           <?php 
